@@ -7,8 +7,6 @@ public class Test {
         DepartamentFactory departamentFactory = new DepartamentFactory(departament);
         Departament departamentCopy= departamentFactory.copyDepartament();
 
-
-        System.out.println(departament.hashCode());
         System.out.println(departamentCopy.toString());
         System.out.println(departamentCopy.hashCode());
     }

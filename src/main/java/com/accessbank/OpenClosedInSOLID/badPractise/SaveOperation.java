@@ -3,7 +3,7 @@ package com.accessbank.OpenClosedInSOLID.badPractise;
 public class SaveOperation {
 
     public void saveToDB() {
-        System.out.println("save t0 db ");
+        System.out.println("save to db ");
     }
 
     public void saveToFile() {
