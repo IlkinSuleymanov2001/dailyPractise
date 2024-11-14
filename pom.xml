@@ -26,6 +26,13 @@
                 <version>2.10.1</version> <!-- Use the latest version available -->
             </dependency>
 
+        <!-- Lombok Dependency -->
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.26</version> <!-- Use the latest version -->
+            <scope>provided</scope>
+        </dependency>
     </dependencies>
 
 </project>
