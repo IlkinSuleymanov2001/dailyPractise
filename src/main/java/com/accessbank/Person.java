@@ -1,5 +1,11 @@
 package com.accessbank;
 
+import lombok.*;
+
+@Getter
+@Setter
+@ToString
+@Builder
 public class Person {
 
     String name;
