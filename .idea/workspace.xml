@@ -4,57 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80f514c4-0f5b-4c16-90af-de367e74d5e3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/accessbank/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/accessbank/OpenClosedInSOLID/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/accessbank/OpenClosedInSOLID/badPractise/SaveOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/accessbank/OpenClosedInSOLID/goodPractise/SaveToCloud.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/accessbank/OpenClosedInSOLID/goodPractise/SaveToDataBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/accessbank/Parser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/accessbank/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/accessbank/Properties.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/accessbank/converter/googlejson/GoogleJsonConvertor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/accessbank/converter/json/JsonConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/accessbank/models/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/accessbank/models/Pay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/accessbank/models/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/accessbank/models/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/accessbank/models/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/accessbank/patterns/creational/abstractFactory/DevTeamFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/accessbank/patterns/creational/abstractFactory/Developer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/accessbank/patterns/creational/abstractFactory/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/accessbank/patterns/creational/abstractFactory/ProductOwner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/accessbank/patterns/creational/abstractFactory/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/accessbank/patterns/creational/abstractFactory/banking/BankDEVTeamFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/accessbank/patterns/creational/abstractFactory/banking/BankPO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/accessbank/patterns/creational/abstractFactory/banking/JavaDeveloper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/accessbank/patterns/creational/abstractFactory/banking/QATester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/accessbank/patterns/creational/abstractFactory/website/CsharpDeveloper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/accessbank/patterns/creational/abstractFactory/website/ManualTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/accessbank/patterns/creational/abstractFactory/website/WebDEVTeamFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/accessbank/patterns/creational/abstractFactory/website/WebPO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/accessbank/patterns/creational/builder/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/accessbank/patterns/creational/factory/DB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/accessbank/patterns/creational/factory/DbInstanceFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/accessbank/patterns/creational/factory/MysqlDB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/accessbank/patterns/creational/factory/ORMDatabase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/accessbank/patterns/creational/factory/OracleDB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/accessbank/patterns/creational/prototype/CommonsCloneAble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/accessbank/patterns/creational/prototype/Departament.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/accessbank/patterns/creational/prototype/DepartamentFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/accessbank/patterns/creational/prototype/Test.java" afterDir="false" />
+    <list default="true" id="80f514c4-0f5b-4c16-90af-de367e74d5e3" name="Changes" comment="sout log for test">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="module" />
+    </option>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -66,8 +28,31 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;IlkinSuleymanov2001&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/IlkinSuleymanov2001/dailyPractise.git&quot;,
+    &quot;accountId&quot;: &quot;4c1e3c50-55b1-413f-afe0-6f2c2b5037c9&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -79,33 +64,43 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Driver.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
-    &quot;Application.com.accessbank.patterns.abstractFactory.Driver.executor&quot;: &quot;Run&quot;,
-    &quot;Maven.untitled [package].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ilkin/source/repos/ilkin/java/untitled/src/main/java/com/accessbank/OpenClosedInSOLID/goodPractise&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/ilkin/source/repos/ilkin/java/untitled/src/main/java/com/accessbank/Main.java&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Driver.executor": "Run",
+    "Application.LIstIteratorTested.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.com.accessbank.patterns.abstractFactory.Driver.executor": "Run",
+    "Application.com.accessbank.patterns.behavioral.strategy.Test.executor": "Run",
+    "Application.com.accessbank.patterns.structural.adapter.Test.executor": "Run",
+    "Application.com.accessbank.patterns.structural.bridge.Test.executor": "Run",
+    "Application.com.accessbank.patterns.structural.proxy.Main.executor": "Run",
+    "Maven.untitled [package].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/ilkin/source/repos/ilkin/java/untitled/src/main/java/com/accessbank/OpenClosedInSOLID/goodPractise",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/ilkin/source/repos/ilkin/java/untitled/src/main/java/com/accessbank/Main.java",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ilkin\source\repos\ilkin\java\untitled\src\main\java\com\accessbank\OpenClosedInSOLID\goodPractise" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.accessbank.patterns.behavioral.strategy.factory" />
+      <recent name="com.accessbank.patterns.behavioral.strategy.provider" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.Driver">
     <configuration name="Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.accessbank.Driver" />
       <module name="untitled" />
@@ -119,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.accessbank.Main" />
+    <configuration name="LIstIteratorTested" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.accessbank.patterns.behavioral.iterator.LIstIteratorTested" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.accessbank.converter.json.*" />
+          <option name="PATTERN" value="com.accessbank.patterns.behavioral.iterator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.accessbank.patterns.prototype.Test" />
+    <configuration name="com.accessbank.patterns.behavioral.strategy.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.accessbank.patterns.behavioral.strategy.Test" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.accessbank.patterns.prototype.*" />
+          <option name="PATTERN" value="com.accessbank.patterns.behavioral.strategy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,12 +140,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.accessbank.patterns.abstractFactory.Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.accessbank.patterns.abstractFactory.Driver" />
+    <configuration name="com.accessbank.patterns.structural.adapter.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.accessbank.patterns.structural.adapter.Test" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.accessbank.patterns.abstractFactory.*" />
+          <option name="PATTERN" value="com.accessbank.patterns.structural.adapter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.accessbank.patterns.structural.bridge.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.accessbank.patterns.structural.bridge.Test" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.accessbank.patterns.structural.bridge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,10 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.com.accessbank.patterns.abstractFactory.Driver" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.LIstIteratorTested" />
         <item itemvalue="Application.Driver" />
+        <item itemvalue="Application.com.accessbank.patterns.structural.bridge.Test" />
+        <item itemvalue="Application.com.accessbank.patterns.structural.adapter.Test" />
+        <item itemvalue="Application.com.accessbank.patterns.behavioral.strategy.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -190,11 +199,90 @@
       <workItem from="1727291307159" duration="166000" />
       <workItem from="1730903735504" duration="399000" />
       <workItem from="1731175139401" duration="4388000" />
-      <workItem from="1731328278146" duration="4793000" />
+      <workItem from="1731328278146" duration="5370000" />
+      <workItem from="1731390492561" duration="10998000" />
+      <workItem from="1731477500070" duration="9133000" />
+      <workItem from="1731565644653" duration="6424000" />
     </task>
+    <task id="LOCAL-00001" summary="tests">
+      <option name="closed" value="true" />
+      <created>1731347384408</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731347384409</updated>
+    </task>
+    <task id="LOCAL-00002" summary="wrote patterns examples">
+      <option name="closed" value="true" />
+      <created>1731522634434</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731522634436</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added lombok dependency">
+      <option name="closed" value="true" />
+      <created>1731566292965</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731566292965</updated>
+    </task>
+    <task id="LOCAL-00004" summary="used lombok annotation over  Person class and test">
+      <option name="closed" value="true" />
+      <created>1731566372833</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1731566372833</updated>
+    </task>
+    <task id="LOCAL-00005" summary="used lombok annotation over  Person class and test">
+      <option name="closed" value="true" />
+      <created>1731569980967</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1731569980967</updated>
+    </task>
+    <task id="LOCAL-00006" summary="sout log for test">
+      <option name="closed" value="true" />
+      <created>1731570724780</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1731570724781</updated>
+    </task>
+    <task id="LOCAL-00007" summary="sout log for test">
+      <option name="closed" value="true" />
+      <created>1731578645502</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1731578645502</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="tests" />
+    <MESSAGE value="wrote patterns examples" />
+    <MESSAGE value="added lombok dependency" />
+    <MESSAGE value="used lombok annotation over  Person class and test" />
+    <MESSAGE value="sout log for test" />
+    <option name="LAST_COMMIT_MESSAGE" value="sout log for test" />
   </component>
 </project>
