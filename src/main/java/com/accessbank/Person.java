@@ -10,8 +10,11 @@ public class Person {
     String name;
     String surname;
     int age;
-    String findCode;
-    String address;
-    String birthday;
+    String azFindCode;
+
+ @Override
+    public String toString() {
+        return "hellooo";
+    }
 
 }
