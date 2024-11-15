@@ -1,11 +1,9 @@
 package com.accessbank;
 
-import java.util.Arrays;
 import java.util.List;
 import java.util.Optional;
 import java.util.OptionalInt;
 import java.util.stream.IntStream;
-import java.util.stream.Stream;
 
 public class Driver {
 
@@ -19,9 +17,14 @@ public class Driver {
         Optional<Integer> reduce = ss.stream().map(String::length)
                 .reduce((a, b) -> a + b);*/
 
-        Person p= Person.builder().FindCode("salam")
+       /* Person p= Person.builder().FindCode("salam")
                 .age(23).name("ilkin").build();
-        System.out.println(p.toString());
+        System.out.println(p.toString());*/
+
+        System.out.println("salam testing ");
+        System.out.println("salam testing 2  ");
+        System.out.println("salam testing  3 ");
+        System.out.println("ammend command push for test");
 
 
     }

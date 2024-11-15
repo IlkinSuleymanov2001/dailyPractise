@@ -4,15 +4,18 @@ import lombok.*;
 
 @Getter
 @Setter
-@ToString
 @Builder
 public class Person {
 
     String name;
     String surname;
     int age;
-    String FindCode;
+    String azFindCode;
+    float salary;
 
-
+ @Override
+    public String toString() {
+        return "hellooo";
+    }
 
 }
