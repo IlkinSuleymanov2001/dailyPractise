@@ -11,7 +11,11 @@ public class Person {
     String name;
     String surname;
     int age;
-    String FindCode;
+    String findCode;
+    String address;
+    String birthday;
+
+
 
 
 
