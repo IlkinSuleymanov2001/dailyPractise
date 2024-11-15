@@ -4,7 +4,6 @@ import lombok.*;
 
 @Getter
 @Setter
-@ToString
 @Builder
 public class Person {
 
@@ -13,6 +12,9 @@ public class Person {
     int age;
     String azFindCode;
 
-
+ @Override
+    public String toString() {
+        return "hellooo";
+    }
 
 }
