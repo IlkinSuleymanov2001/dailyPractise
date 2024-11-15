@@ -11,6 +11,7 @@ public class Person {
     String surname;
     int age;
     String azFindCode;
+    float salary;
 
  @Override
     public String toString() {
